@@ -4,7 +4,7 @@ body{
 
 #container{
 	background-color: white
-	width: 800px;
+	width: 1500px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -20,12 +20,12 @@ body{
 }
 
 #nav{
-	width: 180px;
+	width: 80px;
 	float: left;
 }
 
 #main{
-	width: 800px;
+	width: 1400px;
 	margin: auto;
 }
 
